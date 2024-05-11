@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": ".",
-  "start_url": "https://jeanfgagnon.github.io/index.html",
+  "start_url": "https://jeanfgagnon.github.io/",
   "icons": [
     {
       "src": "https://jeanfgagnon.github.io/assets/icons/icon-72x72.png",
